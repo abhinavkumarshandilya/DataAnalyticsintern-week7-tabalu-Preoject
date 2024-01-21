@@ -1,0 +1,186 @@
+﻿State,Measure Names,Latitude (generated),Longitude (generated),Measure Values
+West Bengal,Count of data.csv,24.4206,88.0343,22463
+West Bengal,rspm,24.4206,88.0343,1472
+West Bengal,No2,24.4206,88.0343,1318097.72
+West Bengal,So2,24.4206,88.0343,268743.23
+West Bengal,Spm,24.4206,88.0343,3036985.85000018
+Uttaranchal,Count of data.csv,30.0072,79.2531,285
+Uttaranchal,rspm,30.0072,79.2531,124
+Uttaranchal,No2,30.0072,79.2531,7198.2
+Uttaranchal,So2,30.0072,79.2531,6544.900000000
+Uttaranchal,Spm,30.0072,79.2531,79334
+Uttarakhand,Count of data.csv,30.0072,79.2531,1961
+Uttarakhand,rspm,30.0072,79.2531,421
+Uttarakhand,No2,30.0072,79.2531,30170.66083333
+Uttarakhand,So2,30.0072,79.2531,27322.085
+Uttarakhand,Spm,30.0072,79.2531,39878.6599997
+Uttar Pradesh,Count of data.csv,27.1861,80.835,42816
+Uttar Pradesh,rspm,27.1861,80.835,2672
+Uttar Pradesh,No2,27.1861,80.835,1141566.99866659
+Uttar Pradesh,So2,27.1861,80.835,504760.73116671
+Uttar Pradesh,Spm,27.1861,80.835,8214253.00666756
+Tripura,Count of data.csv,23.7373,91.6575,1
+Tripura,rspm,23.7373,91.6575,0
+Tripura,No2,23.7373,91.6575,
+Tripura,So2,23.7373,91.6575,
+Tripura,Spm,23.7373,91.6575,
+Telangana,Count of data.csv,17.7956,79.0397,3978
+Telangana,rspm,17.7956,79.0397,225
+Telangana,No2,17.7956,79.0397,94143.500000000
+Telangana,So2,17.7956,79.0397,21387.25
+Telangana,Spm,17.7956,79.0397,
+Tamil Nadu,Count of data.csv,10.8327,78.3436,20597
+Tamil Nadu,rspm,10.8327,78.3436,805
+Tamil Nadu,No2,10.8327,78.3436,431613.616666525
+Tamil Nadu,So2,10.8327,78.3436,225239.060833378
+Tamil Nadu,Spm,10.8327,78.3436,1207727.98333212
+Sikkim,Count of data.csv,27.6003,88.4524,1
+Sikkim,rspm,27.6003,88.4524,1
+Sikkim,No2,27.6003,88.4524,26.8
+Sikkim,So2,27.6003,88.4524,19.8
+Sikkim,Spm,27.6003,88.4524,75
+Rajasthan,Count of data.csv,26.686,73.8182,25589
+Rajasthan,rspm,26.686,73.8182,1450
+Rajasthan,No2,26.686,73.8182,767996.19616679
+Rajasthan,So2,26.686,73.8182,194042.498333312
+Rajasthan,Spm,26.686,73.8182,4741695.00000031
+Punjab,Count of data.csv,31.0732,75.6577,25634
+Punjab,rspm,31.0732,75.6577,655
+Punjab,No2,31.0732,75.6577,706948.829999999
+Punjab,So2,31.0732,75.6577,261495.400000001
+Punjab,Spm,31.0732,75.6577,903261
+Puducherry,Count of data.csv,11.9246,79.7813,3785
+Puducherry,rspm,11.9246,79.7813,201
+Puducherry,No2,11.9246,79.7813,54471.401666596
+Puducherry,So2,11.9246,79.7813,43010.505000008
+Puducherry,Spm,11.9246,79.7813,195211.49999998
+Odisha,Count of data.csv,20.2057,84.4853,19279
+Odisha,rspm,20.2057,84.4853,882
+Odisha,No2,20.2057,84.4853,321210.084499877
+Odisha,So2,20.2057,84.4853,84804.398333311
+Odisha,Spm,20.2057,84.4853,1828288.17399955
+Nagaland,Count of data.csv,26.1236,94.5493,2463
+Nagaland,rspm,26.1236,94.5493,224
+Nagaland,No2,26.1236,94.5493,20050.821666667
+Nagaland,So2,26.1236,94.5493,3279.1
+Nagaland,Spm,26.1236,94.5493,166506
+Mizoram,Count of data.csv,23.2379,92.8631,5338
+Mizoram,rspm,23.2379,92.8631,253
+Mizoram,No2,23.2379,92.8631,32221.428333331
+Mizoram,So2,23.2379,92.8631,9080.214999999
+Mizoram,Spm,23.2379,92.8631,119628.99999979
+Meghalaya,Count of data.csv,25.5682,91.2546,3853
+Meghalaya,rspm,25.5682,91.2546,543
+Meghalaya,No2,25.5682,91.2546,37863.276666685
+Meghalaya,So2,25.5682,91.2546,29939.599999919
+Meghalaya,Spm,25.5682,91.2546,63806
+Manipur,Count of data.csv,24.7664,93.8647,76
+Manipur,rspm,24.7664,93.8647,51
+Manipur,No2,24.7664,93.8647,1533.2
+Manipur,So2,24.7664,93.8647,97.5
+Manipur,Spm,24.7664,93.8647,12058
+Maharashtra,Count of data.csv,18.8493,75.4561,60384
+Maharashtra,rspm,18.8493,75.4561,1113
+Maharashtra,No2,18.8493,75.4561,1900170.12350005
+Maharashtra,So2,18.8493,75.4561,1012870.18416669
+Maharashtra,Spm,18.8493,75.4561,4586441.36636044
+Madhya Pradesh,Count of data.csv,23.5,78.5,19920
+Madhya Pradesh,rspm,23.5,78.5,978
+Madhya Pradesh,No2,23.5,78.5,336388.793666639
+Madhya Pradesh,So2,23.5,78.5,199732.183
+Madhya Pradesh,Spm,23.5,78.5,2524381.69000023
+Lakshadweep,Count of data.csv,11.5517,72.1662,1
+Lakshadweep,rspm,11.5517,72.1662,0
+Lakshadweep,No2,11.5517,72.1662,
+Lakshadweep,So2,11.5517,72.1662,
+Lakshadweep,Spm,11.5517,72.1662,
+Kerala,Count of data.csv,10.5502,76.4434,24728
+Kerala,rspm,10.5502,76.4434,844
+Kerala,No2,10.5502,76.4434,336880.893738104
+Kerala,So2,10.5502,76.4434,119188.706666671
+Kerala,Spm,10.5502,76.4434,891050.89536661
+Karnataka,Count of data.csv,15.0527,75.5344,17119
+Karnataka,rspm,15.0527,75.5344,967
+Karnataka,No2,15.0527,75.5344,378819.53
+Karnataka,So2,15.0527,75.5344,165123.49166667
+Karnataka,Spm,15.0527,75.5344,1253125
+Jharkhand,Count of data.csv,23.75,85.5,5968
+Jharkhand,rspm,23.75,85.5,568
+Jharkhand,No2,23.75,85.5,253042.59766666
+Jharkhand,So2,23.75,85.5,137391.89199997
+Jharkhand,Spm,23.75,85.5,741545.91
+Jammu & Kashmir,Count of data.csv,33.5619,75.1247,1289
+Jammu & Kashmir,rspm,33.5619,75.1247,160
+Jammu & Kashmir,No2,33.5619,75.1247,15474.1
+Jammu & Kashmir,So2,33.5619,75.1247,9104.9
+Jammu & Kashmir,Spm,33.5619,75.1247,18641
+Himachal Pradesh,Count of data.csv,31.8285,77.3118,22896
+Himachal Pradesh,rspm,31.8285,77.3118,888
+Himachal Pradesh,No2,31.8285,77.3118,282106.533500084
+Himachal Pradesh,So2,31.8285,77.3118,44253.747666669
+Himachal Pradesh,Spm,31.8285,77.3118,1780193
+Haryana,Count of data.csv,29.3031,76.0522,3420
+Haryana,rspm,29.3031,76.0522,395
+Haryana,No2,29.3031,76.0522,70589.5
+Haryana,So2,29.3031,76.0522,44149.9
+Haryana,Spm,29.3031,76.0522,480194
+Gujarat,Count of data.csv,23,72,21279
+Gujarat,rspm,23,72,597
+Gujarat,No2,23,72,511009.604999981
+Gujarat,So2,23,72,352914.58833338
+Gujarat,Spm,23,72,2664135.2
+Goa,Count of data.csv,15.3474,74.1033,6206
+Goa,rspm,15.3474,74.1033,245
+Goa,No2,15.3474,74.1033,72036.5
+Goa,So2,15.3474,74.1033,35102.3
+Goa,Spm,15.3474,74.1033,220728.26
+Delhi,Count of data.csv,28.6415,77.1259,8551
+Delhi,rspm,28.6415,77.1259,774
+Delhi,No2,28.6415,77.1259,428287.6
+Delhi,So2,28.6415,77.1259,68238.1
+Delhi,Spm,28.6415,77.1259,2180336
+Daman & Diu,Count of data.csv,20.204,73.007,782
+Daman & Diu,rspm,20.204,73.007,108
+Daman & Diu,No2,20.204,73.007,12644.1
+Daman & Diu,So2,20.204,73.007,6398.7
+Daman & Diu,Spm,20.204,73.007,82310
+Dadra & Nagar Haveli,Count of data.csv,20.204,73.007,634
+Dadra & Nagar Haveli,rspm,20.204,73.007,107
+Dadra & Nagar Haveli,No2,20.204,73.007,11506.9
+Dadra & Nagar Haveli,So2,20.204,73.007,5623
+Dadra & Nagar Haveli,Spm,20.204,73.007,71970
+Chhattisgarh,Count of data.csv,21.5,82,7831
+Chhattisgarh,rspm,21.5,82,447
+Chhattisgarh,No2,21.5,82,185995.63
+Chhattisgarh,So2,21.5,82,94152.799999990
+Chhattisgarh,Spm,21.5,82,911749
+Chandigarh,Count of data.csv,30.7308,76.7808,8520
+Chandigarh,rspm,30.7308,76.7808,308
+Chandigarh,No2,30.7308,76.7808,141246.800000001
+Chandigarh,So2,30.7308,76.7808,11829.6
+Chandigarh,Spm,30.7308,76.7808,1020184
+Bihar,Count of data.csv,25.75,85.75,2275
+Bihar,rspm,25.75,85.75,280
+Bihar,No2,25.75,85.75,80100.4
+Bihar,So2,25.75,85.75,41224.4
+Bihar,Spm,25.75,85.75,492913
+Assam,Count of data.csv,26.0667,90.7559,19361
+Assam,rspm,26.0667,90.7559,467
+Assam,No2,26.0667,90.7559,285251.949999999
+Assam,So2,26.0667,90.7559,129274.900000001
+Assam,Spm,26.0667,90.7559,904030
+Arunachal Pradesh,Count of data.csv,28.0762,94.9823,90
+Arunachal Pradesh,rspm,28.0762,94.9823,64
+Arunachal Pradesh,No2,28.0762,94.9823,361
+Arunachal Pradesh,So2,28.0762,94.9823,213
+Arunachal Pradesh,Spm,28.0762,94.9823,
+Andhra Pradesh,Count of data.csv,14.9176,78.7448,26368
+Andhra Pradesh,rspm,14.9176,78.7448,506
+Andhra Pradesh,No2,14.9176,78.7448,560343.8
+Andhra Pradesh,So2,14.9176,78.7448,187082.1
+Andhra Pradesh,Spm,14.9176,78.7448,2360869.6
+andaman-and-nicobar-islands,Count of data.csv,12.612,92.8317,1
+andaman-and-nicobar-islands,rspm,12.612,92.8317,0
+andaman-and-nicobar-islands,No2,12.612,92.8317,
+andaman-and-nicobar-islands,So2,12.612,92.8317,
+andaman-and-nicobar-islands,Spm,12.612,92.8317,
